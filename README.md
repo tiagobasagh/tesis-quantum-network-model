@@ -1,10 +1,10 @@
-# Quantun network model [ARCHIVADO]
+# Quantum network model [ARCHIVADO]
 Conjunto de scripts utilizados para simular, modelar e analizar una red cuantica, donde los grafos se conectan mediante entrelazamiento cuantico
 y conectar dos nodos cualesquiera de la red "gasta" el entrelazamiento de los nodos del camino. El conjunto de scripts presentan son parte de la Tesis de licenciatura de Santiago Basañes (defendida en octubre del 2019). 
 
 La estructura del repositorio es la siguiente: 
 
-tesis-quantun-network-model/  
+tesis-quantum-network-model/  
 ├── analysis/ # herramientas y scripts de analisis  
 │   ├── config.py  
 │   ├── degree_distribution_analysis.py  
