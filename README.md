@@ -35,6 +35,8 @@ tesis-quantum-network-model/
 │   └── tree_first_step.y  
 │  
 ├── stored # donde se guardan los resultados  
-├── .gitignore                     # Para evitar subir archivos pesados o temporales
-└── README.md                      # Documentación general del repositorio
+├── .gitignore                     # Para evitar subir archivos pesados o temporales  
+└── README.md                      # Documentación general del repositorio  
+
+Para consultas sobre los resutados de la tesis o uso del script escribir a: santi.basanes@gmail.com
 
